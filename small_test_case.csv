@@ -1,0 +1,4 @@
+"Name","Monday Availability","Wednesday Availability"
+"Test1","8:00 am EDT (12:00 UTC)","8:00 am EDT (12:00 UTC), 12:00 pm EDT (16:00 UTC)"
+"Test2","8:00 am EDT (12:00 UTC)","12:00 pm EDT (16:00 UTC)"
+"Test3","9:00 am EDT (13:00 UTC)","8:00 am EDT (12:00 UTC)"
